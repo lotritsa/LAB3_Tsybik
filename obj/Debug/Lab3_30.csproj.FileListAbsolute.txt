@@ -1,0 +1,13 @@
+C:\Users\eva\source\repos\Lab3_30\bin\Debug\Lab3_30.exe.config
+C:\Users\eva\source\repos\Lab3_30\bin\Debug\Lab3_30.exe
+C:\Users\eva\source\repos\Lab3_30\bin\Debug\Lab3_30.pdb
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.csprojAssemblyReference.cache
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.Form1.resources
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.Properties.Resources.resources
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.csproj.GenerateResource.cache
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.csproj.CoreCompileInputs.cache
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.exe
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.pdb
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.Info.resources
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.TextEditor.resources
+C:\Users\eva\source\repos\Lab3_30\obj\Debug\Lab3_30.Search.resources
